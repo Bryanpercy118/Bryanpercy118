@@ -1,7 +1,7 @@
 
 - 👋 Hola, mi nombre es Bryan A. Granados Percy.
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
-- 🌱 Soy técnico de sistemas, Developer Backend y Community Manager estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
+- 🌱 Estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
 - 💻 Desarrollador Web en Laravel 
 - ⚡Desarrollador FullStack | Laravel | Astro |Angular | Nodejs | Tailwind | Docker 
 
