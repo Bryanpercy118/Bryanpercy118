@@ -1,9 +1,9 @@
 
-- 👋 Hola, mi nombre es Bryan A. Granados Percy.
+- 👋 Hola, mi nombre es Luisfer Rojas
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
 - 🌱 Estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
-- 💻 Desarrollador Web en Laravel 
-- ⚡Desarrollador FullStack | Laravel | Astro |Angular | Nodejs | Tailwind | Docker 
+- 💻 Desarrollador Web y aplicativos móvil
+- ⚡Desarrollador Junior | Flutter | Nodejs | Tailwind | Docker 
 
 
 
